@@ -8,3 +8,6 @@ console.log('z2 = ' + z2); // Виводимо значення виразів
 
 console.log('Зміна №1');
 console.log('Зміна №2');
+
+// код secondBranch
+console.log('secondBranch №1');
