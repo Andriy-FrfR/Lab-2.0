@@ -14,3 +14,5 @@ console.log('master №1');
 
 // зміни локального репозиторію
 console.log('Зміна локального репозиторію');
+// код secondBranch
+console.log('secondBranch №1');
